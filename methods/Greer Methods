@@ -1,0 +1,7 @@
+Image registration, cell segmentation, and trace extraction is accomplished via custom code, and publicly available Python image processing and OpenCV packages. 
+
+First, Movies are aligned using a feature-based approach that is robust to regional fluorescence intensity fluctuations over the course of the experiment. All contrast-enhanced frames from a single experiment are registered to a manually chosen target frame in a pairwise manner. For each frame-target pair, positional features, typically corresponding to cell bodies and blood vessels,  are automatically identified using Harris corner detection. Corresponding features are then used to obtain an optimal Homography transform between frame and target. 
+
+Cells from aligned movies are subsequently identified using a semi-automated approach. First, the centroids of cells in a time-series average projection are manually specified. Cell masks are subsequently generated using a combination of morphological filtering and region-growing. Each cell mask is further refined based on co-fluctuations in the fluorescence of pixels in the cell’s vicinity. Independently covarying groups of pixels are first identified using Nonnegative Matrix Factorization. Pixels associated with the cell of interest are then assigned to the current mask. Pixels that correspond to adjacent neurons are excluded. 
+
+Fluorescence time-courses for identified cells are obtained by averaging all pixels within corresponding masks on a frame-by frame basis across the experiment. 
