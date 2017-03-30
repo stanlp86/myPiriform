@@ -104,21 +104,21 @@ aldehydes|esters|furans|ketones|sulfurs|acids
 
 slice 0: Trial e1_006|slice 1: Trial e1_006|slice 2: Trial e1_006
 :---:|:---:|:---:
-<img src="Mask_slice_0_green.png" />|<img src="Mask_slice_1_green.png" />|<img src="Mask_slice_2_green.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/Mask_slice_0_green.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/Mask_slice_1_green.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/Mask_slice_2_green.png" />
 
 slice 3: Trial e1_004|slice 4: Trial e1_004|slice 5: Trial e1_004
 :---:|:---:|:---:
-<img src="Mask_slice_3_green.png" />|<img src="Mask_slice_4_green.png" />|<img src="Mask_slice_5_green.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/Mask_slice_3_green.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/Mask_slice_4_green.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/Mask_slice_5_green.png" />
 
 ##### Red channel
 
 slice 0: Trial e1_006|slice 1: Trial e1_006|slice 2: Trial e1_006
 :---:|:---:|:---:
-<img src="Mask_slice_0_red.png" />|<img src="Mask_slice_1_red.png" />|<img src="Mask_slice_2_red.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/Mask_slice_0_red.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/Mask_slice_1_red.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/Mask_slice_2_red.png" />
 
 slice 3: Trial e1_004|slice 4: Trial e1_004|slice 5: Trial e1_004
 :---:|:---:|:---:
-<img src="Mask_slice_3_red.png" />|<img src="Mask_slice_4_red.png" />|<img src="Mask_slice_5_red.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/Mask_slice_3_red.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/Mask_slice_4_red.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/Mask_slice_5_red.png" />
 
 ___
 
@@ -139,12 +139,12 @@ ___
 
 Layer II slice 0|Layer II slice 1|Layer III slice 2
 :---:|:---:|:---:
-<img src="SNR_slice_0.png" />|<img src="SNR_slice_1.png" />|<img src="SNR_slice_2.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/SNR_slice_0.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/SNR_slice_1.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/SNR_slice_2.png" />
 50th percentile: |50th percentile: |50th percentile: 
 
 Layer III slice 3|Layer III slice 4|Layer III slice 5
 :---:|:---:|:---:
-<img src="SNR_slice_3.png" />|<img src="SNR_slice_4.png" />|<img src="SNR_slice_5.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/SNR_slice_3.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/SNR_slice_4.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/SNR_slice_5.png" />
 50th percentile: 5.2|50th percentile: 5.4|50th percentile: 5.4
 
 <a id='Events'></a>
@@ -162,22 +162,22 @@ Layer III slice 3|Layer III slice 4|Layer III slice 5
 
 Layer II slice 0|Layer II slice 1|Layer III slice 2
 :---:|:---:|:---:
-<img src="event_magnitudes_slice_0.png" />  |<img src="event_magnitudes_slice_1.png" />|<img src="event_magnitudes_slice_2.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/event_magnitudes_slice_0.png" />  |<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/event_magnitudes_slice_1.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/event_magnitudes_slice_2.png" />
 
 Layer III slice 3|Layer III slice 4|Layer III slice 5
 :---:|:---:|:---:
-<img src="event_magnitudes_slice_3.png" />  |<img src="event_magnitudes_slice_4.png" />|<img src="event_magnitudes_slice_5.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/event_magnitudes_slice_3.png" />  |<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/event_magnitudes_slice_4.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/event_magnitudes_slice_5.png" />
 
 <a id='Distribution of event durations'></a>
 ### Distribution of event durations  
 
 Layer II slice 0|Layer II slice 1|Layer III slice 2
 :---:|:---:|:---:
-<img src="normed_event_duration_slice_0.png" />|<img src="normed_event_duration_slice_1.png" />|<img src="normed_event_duration_slice_2.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/normed_event_duration_slice_0.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/normed_event_duration_slice_1.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/normed_event_duration_slice_2.png" />
 
 Layer III slice 3|Layer III slice 4|Layer III slice 5
 :---:|:---:|:---:
-<img src="normed_event_duration_slice_3.png" />|<img src="normed_event_duration_slice_4.png" />|<img src="normed_event_duration_slice_5.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/normed_event_duration_slice_3.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/normed_event_duration_slice_4.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/normed_event_duration_slice_5.png" />
 
 
 
@@ -223,23 +223,23 @@ slice 0|slice 1|slice 2|slice 3|slice 4|slice 5
 ##### Excitatory neurons
 [Back to Odor Evoked Activity](#Odor Evoked Activity)
 
-<img src="byOdor_trialAves0_exc.png" />
-<img src="byOdor_trialAves1_exc.png" />
-<img src="byOdor_trialAves2_exc.png" />
-<img src="byOdor_trialAves3_exc.png" />
-<img src="byOdor_trialAves4_exc.png" />
-<img src="byOdor_trialAves5_exc.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/byOdor_trialAves0_exc.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/byOdor_trialAves1_exc.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/byOdor_trialAves2_exc.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/byOdor_trialAves3_exc.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/byOdor_trialAves4_exc.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/byOdor_trialAves5_exc.png" />
 
 <a id='inhibitoryByOdor'></a>
 ##### Inhibitory neurons
 [Back to Odor Evoked Activity](#Odor Evoked Activity)
 
-<img src="byOdor_trialAves0_inh.png" />
-<img src="byOdor_trialAves1_inh.png" />
-<img src="byOdor_trialAves2_inh.png" />
-<img src="byOdor_trialAves3_inh.png" />
-<img src="byOdor_trialAves4_inh.png" />
-<img src="byOdor_trialAves5_inh.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/byOdor_trialAves0_inh.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/byOdor_trialAves1_inh.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/byOdor_trialAves2_inh.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/byOdor_trialAves3_inh.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/byOdor_trialAves4_inh.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/byOdor_trialAves5_inh.png" />
 
 <a id='Class averages'></a>
 <a id='excitatory'></a>
@@ -247,23 +247,23 @@ slice 0|slice 1|slice 2|slice 3|slice 4|slice 5
 ##### Excitatory neurons
 [Back to Odor Evoked Activity](#Odor Evoked Activity)
 
-<img src="classAves_0_exc.png" />
-<img src="classAves_1_exc.png" />
-<img src="classAves_2_exc.png" />
-<img src="classAves_3_exc.png" />
-<img src="classAves_4_exc.png" />
-<img src="classAves_5_exc.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_0_exc.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_1_exc.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_2_exc.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_3_exc.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_4_exc.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_5_exc.png" />
 
 <a id='inhibitory'></a>
 ##### Inhibitory neurons
 [Back to Odor Evoked Activity](#Odor Evoked Activity)
 
-<img src="classAves_0_inh.png" />
-<img src="classAves_1_inh.png" />
-<img src="classAves_2_inh.png" />
-<img src="classAves_3_inh.png" />
-<img src="classAves_4_inh.png" />
-<img src="classAves_5_inh.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_0_inh.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_1_inh.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_2_inh.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_3_inh.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_4_inh.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_5_inh.png" />
 
 <a id='Fraction of responsive population by odor'></a>
 ### Fraction of population that responds to odors. Presented for each odor
@@ -273,11 +273,11 @@ slice 0|slice 1|slice 2|slice 3|slice 4|slice 5
 
 Layer II slice 0|Layer II slice 1| Layer III slice 2
 :---:|:---:|:---:
-<img src="response_density_slice_0.png" />|<img src="response_density_slice_1.png" />|<img src="response_density_slice_2.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/response_density_slice_0.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/response_density_slice_1.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/response_density_slice_2.png" />
 
 Layer III slice 3|Layer III slice 4|Layer III slice 5
 :---:|:---:|:---:
-<img src="response_density_slice_3.png" />|<img src="response_density_slice_4.png" />|<img src="response_density_slice_5.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/response_density_slice_3.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/response_density_slice_4.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/response_density_slice_5.png" />
 
 <a id='Fraction of cells responding to multiple odors'></a>
 ### Fraction of cells responding to multiple odors
@@ -287,11 +287,11 @@ Layer III slice 3|Layer III slice 4|Layer III slice 5
 
 Layer II slice 0|Layer II slice 1|Layer III slice 2
 :---:|:---:|:---:
-<img src="cells_across_odors_slice_0.png" />|<img src="cells_across_odors_slice_1.png" />|<img src="cells_across_odors_slice_2.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/cells_across_odors_slice_0.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/cells_across_odors_slice_1.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/cells_across_odors_slice_2.png" />
 
 Layer III slice 3|Layer III slice 4|Layer III slice 5
 :---:|:---:|:---:
-<img src="cells_across_odors_slice_3.png" />|<img src="cells_across_odors_slice_4.png" />|<img src="cells_across_odors_slice_5.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/cells_across_odors_slice_3.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/cells_across_odors_slice_4.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/cells_across_odors_slice_5.png" />
 
 <a id='Lifetime Sparseness'></a>
 ### Lifetime Sparseness
@@ -300,11 +300,11 @@ Layer III slice 3|Layer III slice 4|Layer III slice 5
 
 Layer II, slice 0|Layer II, slice 1|Layer III, slice 2
 :---:|:---:|:---:
-<img src="LS_slice_0.png" />|<img src="LS_slice_1.png" />|<img src="LS_slice_2.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/LS_slice_0.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/LS_slice_1.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/LS_slice_2.png" />
 
 Layer III, slice 3|Layer III, slice 4|Layer III, slice 5
 :---:|:---:|:---:
-<img src="LS_slice_3.png" />|<img src="LS_slice_4.png" />|<img src="LS_slice_5.png" />
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/LS_slice_3.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/LS_slice_4.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/LS_slice_5.png" />
 
 
 ```python
