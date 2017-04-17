@@ -36,6 +36,7 @@ sp032917a_e1_slice_5
   - [Class averages](#Class averages)
       - [excitatory](#excitatory)
       - [inhibitory](#inhibitory)
+- [Cumulative number of trials with detected responses](#Cumulative number of trials with detected responses)
 - [Fraction of cells responding to multiple odors](#Fraction of cells responding to multiple odors)
 - [Fraction of responsive population by odor](#Fraction of responsive population by odor)
 - [Lifetime Sparseness](#Lifetime Sparseness)
@@ -49,21 +50,21 @@ sp032917a_e1_slice_5
 <a id='Number of Trials'></a>
 ##### Number of Trials
 
-- Awake: 12
+- Awake: 11
 
 ##### Layer II
  - Total number of cells in Slice 0 FOV:   
-     - excitatory: 
-     - inhibitory: 
+     - excitatory: 176
+     - inhibitory: 3
  - Total number of cells in Slice 1 FOV: 
-     - excitatory: 
-     - inhibitory: 
+     - excitatory: 174
+     - inhibitory: 5
  
 <br></br>   
 ##### Layer III
  - Total number of cells in Slice 2 FOV:  
-     - excitatory: 
-     - inhibitory: 
+     - excitatory: 91
+     - inhibitory: 5
  - Total number of cells in Slice 3 FOV:
      - excitatory: 70
      - inhibitory: 7
@@ -140,7 +141,7 @@ ___
 Layer II slice 0|Layer II slice 1|Layer III slice 2
 :---:|:---:|:---:
 <img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/SNR_slice_0.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/SNR_slice_1.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/SNR_slice_2.png" />
-50th percentile: |50th percentile: |50th percentile: 
+50th percentile: 5.3|50th percentile: 5.3|50th percentile: 5.2
 
 Layer III slice 3|Layer III slice 4|Layer III slice 5
 :---:|:---:|:---:
@@ -185,7 +186,7 @@ Layer III slice 3|Layer III slice 4|Layer III slice 5
 ### Average number of events per cell 
 slice 0|slice 1|slice 2|slice 3|slice 4|slice 5
 :---:|:---:|:---:|:---:|:---:|:---:
- |  |  | 64 | 67 | 70
+72 | 67 | 62 | 64 | 67 | 70
 
 <a id='Average event frequency'></a>
 ### Average event frequency
@@ -193,7 +194,7 @@ slice 0|slice 1|slice 2|slice 3|slice 4|slice 5
 
 slice 0|slice 1|slice 2|slice 3|slice 4|slice 5
 :---:|:---:|:---:|:---:|:---:|:---:
-0. | 0. | 0. | 0.09 | 0.09 | 0.1
+0.1 | 0.09 | 0.08 | 0.09 | 0.09 | 0.1
 
 
 ---
@@ -211,7 +212,7 @@ slice 0|slice 1|slice 2|slice 3|slice 4|slice 5
   - [Class averages](#Class averages)
       - [excitatory](#excitatory)
       - [inhibitory](#inhibitory)
-  
+- [Cumulative number of trials with detected responses](#Cumulative number of trials with detected responses)
 - [Fraction of cells responding to multiple odors](#Fraction of cells responding to multiple odors)
 - [Fraction of responsive population by odor](#Fraction of responsive population by odor)
 - [Lifetime Sparseness](#Lifetime Sparseness)
@@ -264,6 +265,20 @@ slice 0|slice 1|slice 2|slice 3|slice 4|slice 5
 <img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_3_inh.png" />
 <img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_4_inh.png" />
 <img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/classAves_5_inh.png" />
+
+<a id='Cumulative number of trials with detected responses'></a>
+### Cumulative number of trials with detected responses
+[Back to Odor Evoked Activity](#Odor Evoked Activity) 
+<br></br> 
+
+
+Layer II slice 0|Layer II slice 1| Layer III slice 2
+:---:|:---:|:---:
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/CumTrialsWithResponseByOdor_0.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/CumTrialsWithResponseByOdor_1.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/CumTrialsWithResponseByOdor_2.png" />
+
+Layer III slice 3|Layer III slice 4|Layer III slice 5
+:---:|:---:|:---:
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/CumTrialsWithResponseByOdor_3.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/CumTrialsWithResponseByOdor_4.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp032917a/CumTrialsWithResponseByOdor_5.png" />
 
 <a id='Fraction of responsive population by odor'></a>
 ### Fraction of population that responds to odors. Presented for each odor

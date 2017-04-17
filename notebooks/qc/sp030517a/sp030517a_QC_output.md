@@ -36,6 +36,7 @@ sp030517a_e1_slice_5
   - [Class averages](#Class averages)
       - [excitatory](#excitatory)
       - [inhibitory](#inhibitory)
+- [Cumulative number of trials with detected responses](#Cumulative number of trials with detected responses)
 - [Fraction of cells responding to multiple odors](#Fraction of cells responding to multiple odors)
 - [Fraction of responsive population by odor](#Fraction of responsive population by odor)
 - [Lifetime Sparseness](#Lifetime Sparseness)
@@ -211,7 +212,7 @@ slice 0|slice 1|slice 2|slice 3|slice 4|slice 5
   - [Class averages](#Class averages)
       - [excitatory](#excitatory)
       - [inhibitory](#inhibitory)
-  
+- [Cumulative number of trials with detected responses](#Cumulative number of trials with detected responses)
 - [Fraction of cells responding to multiple odors](#Fraction of cells responding to multiple odors)
 - [Fraction of responsive population by odor](#Fraction of responsive population by odor)
 - [Lifetime Sparseness](#Lifetime Sparseness)
@@ -264,6 +265,20 @@ slice 0|slice 1|slice 2|slice 3|slice 4|slice 5
 <img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp030517a/classAves_3_inh.png" />
 <img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp030517a/classAves_4_inh.png" />
 <img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp030517a/classAves_5_inh.png" />
+
+<a id='Cumulative number of trials with detected responses'></a>
+### Cumulative number of trials with detected responses
+[Back to Odor Evoked Activity](#Odor Evoked Activity) 
+<br></br> 
+
+
+Layer II slice 0|Layer II slice 1| Layer III slice 2
+:---:|:---:|:---:
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp030517a/CumTrialsWithResponseByOdor_0.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp030517a/CumTrialsWithResponseByOdor_1.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp030517a/CumTrialsWithResponseByOdor_2.png" />
+
+Layer III slice 3|Layer III slice 4|Layer III slice 5
+:---:|:---:|:---:
+<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp030517a/CumTrialsWithResponseByOdor_3.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp030517a/CumTrialsWithResponseByOdor_4.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp030517a/CumTrialsWithResponseByOdor_5.png" />
 
 <a id='Fraction of responsive population by odor'></a>
 ### Fraction of population that responds to odors. Presented for each odor
