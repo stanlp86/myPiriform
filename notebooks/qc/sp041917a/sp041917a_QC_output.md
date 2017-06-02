@@ -38,27 +38,27 @@
 
 ##### Layer II
  - Total number of cells in Slice 0 FOV:   
-     - excitatory: 238
-     - inhibitory: 1
+     - excitatory: 223
+     - inhibitory: 5
  - Total number of cells in Slice 1 FOV: 
-     - excitatory: 176
+     - excitatory: 141
      - inhibitory: 6
  - Total number of cells in Slice 2 FOV:  
-     - excitatory: 117
-     - inhibitory: 15
+     - excitatory: 141
+     - inhibitory: 10
  
 <br></br>   
 ##### Layer III
 
  - Total number of cells in Slice 3 FOV:
-     - excitatory: 110
-     - inhibitory: 7
+     - excitatory: 118
+     - inhibitory: 4
  - Total number of cells in Slice 4 FOV: 
-     - excitatory: 84
-     - inhibitory: 5
+     - excitatory: 107
+     - inhibitory: 11
  - Total number of cells in Slice 5 FOV:  
-     - excitatory: 78
-     - inhibitory: 5
+     - excitatory: 68
+     - inhibitory: 15
 
 <a id='Stimulus set'></a>
 ##### Stimulus set
@@ -125,12 +125,12 @@ ___
 Layer II slice 0|Layer II slice 1|Layer II slice 2
 :---:|:---:|:---:
 <img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp041917a/SNR_slice_0.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp041917a/SNR_slice_1.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp041917a/SNR_slice_2.png" />
-50th percentile: 4.9|50th percentile: 5.0|50th percentile: 5.1
+50th percentile: 4.8|50th percentile: 5.0|50th percentile: 5.1
 
 Layer III slice 3|Layer III slice 4|Layer III slice 5
 :---:|:---:|:---:
 <img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp041917a/SNR_slice_3.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp041917a/SNR_slice_4.png" />|<img src="https://raw.githubusercontent.com/stanlp86/myPiriform/master/notebooks/qc/sp041917a/SNR_slice_5.png" />
-50th percentile: 5.4|50th percentile: 5.3|50th percentile: 5.4
+50th percentile: 5.0|50th percentile: 5.1|50th percentile: 5.1
 
 <a id='Events'></a>
 ## Events
@@ -170,7 +170,7 @@ Layer III slice 3|Layer III slice 4|Layer III slice 5
 ### Average number of events per cell 
 slice 0|slice 1|slice 2|slice 3|slice 4|slice 5
 :---:|:---:|:---:|:---:|:---:|:---:
-64 | 59 | 63 | 65 | 66 | 65
+57 | 55 | 55 | 58 | 59 | 59
 
 <a id='Average event frequency'></a>
 ### Average event frequency
@@ -178,7 +178,7 @@ slice 0|slice 1|slice 2|slice 3|slice 4|slice 5
 
 slice 0|slice 1|slice 2|slice 3|slice 4|slice 5
 :---:|:---:|:---:|:---:|:---:|:---:
-0.09 | 0.08 | 0.09 | 0.09 | 0.9 | 0.09
+0.08 | 0.07 | 0.07 | 0.08 | 0.08 | 0.08
 
 
 ---
